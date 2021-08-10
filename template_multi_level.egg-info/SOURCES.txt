@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+template_multi_level/__init__.py
+template_multi_level/new.py
+template_multi_level.egg-info/PKG-INFO
+template_multi_level.egg-info/SOURCES.txt
+template_multi_level.egg-info/dependency_links.txt
+template_multi_level.egg-info/requires.txt
+template_multi_level.egg-info/top_level.txt
